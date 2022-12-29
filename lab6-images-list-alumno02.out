@@ -1,0 +1,5 @@
+REPOSITORY         TAG       IMAGE ID       CREATED         SIZE
+python             3.7       1f1a7b570f9e   7 days ago      907MB
+ubuntu             latest    6b7dfa7e8fdb   2 weeks ago     77.8MB
+hello-world        latest    feb5d9fea6a5   15 months ago   13.3kB
+rocker/tidyverse   3.6.1     5c4c75978566   3 years ago     2.1GB
