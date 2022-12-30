@@ -1,0 +1,5 @@
+FROM jricardoum/lab6-docker:v1
+RUN mkdir -p /tmp/init
+COPY ./lab6_init.sh /tmp/init
+RUN chmod +x /tmp/init/lab6_init.sh
+RUN /tmp/init/lab6_init.sh

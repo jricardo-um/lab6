@@ -1,0 +1,6 @@
+REPOSITORY               TAG       IMAGE ID       CREATED              SIZE
+jricardoum/lab6-docker   v1        427f07690fa5   About a minute ago   1.28GB
+python                   3.7       1f1a7b570f9e   8 days ago           907MB
+ubuntu                   latest    6b7dfa7e8fdb   2 weeks ago          77.8MB
+hello-world              latest    feb5d9fea6a5   15 months ago        13.3kB
+rocker/tidyverse         3.6.1     5c4c75978566   3 years ago          2.1GB

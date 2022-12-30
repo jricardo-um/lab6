@@ -1,0 +1,4 @@
+FROM jricardoum/lab6-docker:v1
+COPY ./*.ipynb /tmp
+RUN mkdir -p /home/shared/outputs
+RUN for i in /tmp/*.ipynb ; do ipython $i > /home/shared/outputs/$(basename $i); done
